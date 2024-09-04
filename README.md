@@ -9,7 +9,7 @@
   
   [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavelprince&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavelprince&theme=tokyonight&layout=donut)](https://github.com/pavelprince/github-readme-stats)
-  [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavelprince&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pavelprince&theme=tokyonight)
   
 </div>
 
