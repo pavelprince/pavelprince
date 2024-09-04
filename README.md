@@ -3,12 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavelprince&label=Profile%20views&color=0e75b6&style=flat" alt="pavelprince" /> </p>
 
-
 --- 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavelprince&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<div align="center">
   
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pavelprince&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavelprince&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavelprince&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavelprince&theme=tokyonight&layout=donut)](https://github.com/pavelprince/github-readme-stats)
+  [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavelprince&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  
+</div>
 
 ## Tools and Technologies
 
@@ -98,9 +101,14 @@ Here are a few things I've picked up along my learning journey.
 
 <hr>
 
+### 📧 For Business Inquiries 
+✅  ► pavelparves.h@gmail.com
+  
+<hr>
+
 <br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavelprince&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pavelprince&show_icons=true&locale=en&theme=synthwave" alt="jimnewaz" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pavelprince&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true" alt="pavelprince" /></p>
