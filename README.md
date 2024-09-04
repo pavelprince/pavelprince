@@ -95,3 +95,12 @@ Here are a few things I've picked up along my learning journey.
 <a href="#operating-systems"><img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"/></a>
 <a href="#operating-systems"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a> 
 <a href="#operating-systems"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/></a> 
+
+<hr>
+
+<br>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavelprince&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pavelprince&show_icons=true&locale=en&theme=synthwave" alt="jimnewaz" /></p>
