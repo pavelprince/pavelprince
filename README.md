@@ -7,8 +7,8 @@
 
 <div align="center">
   
-  [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavelprince&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavelprince&theme=tokyonight&layout=donut)](https://github.com/pavelprince/github-readme-stats)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavelprince&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavelprince&theme=tokyonight&layout=donut&border_color=0d1117)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pavelprince&theme=tokyonight)
   
 </div>
